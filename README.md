@@ -1,4 +1,4 @@
-Integrated with a React-based frontend------->>   https://github.com/PasinduChandrasiri/MA-COM.git
+This project was bootstrapped with------->>   https://github.com/PasinduChandrasiri/MA-COM.git
 
 
 Currently developing the backend of a comprehensive microservices application using Java Spring Boot and MySQL, aimed at supporting the Management Assistant (MA) in the Computer Engineering Department.
